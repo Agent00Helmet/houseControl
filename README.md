@@ -1,5 +1,5 @@
-houseControl
-============
+houseControl - project description file
+=======================================
 
 House Control System Development Repo
 
